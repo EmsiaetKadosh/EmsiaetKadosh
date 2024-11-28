@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 - Student
 - China, Shanghai
+- Interested in C++, Can do some Java/Python/Html/Javascript develop
